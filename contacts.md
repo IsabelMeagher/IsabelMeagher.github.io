@@ -1,5 +1,5 @@
 ---
-title: About
+title: Contacts
 layout: single
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Dining
+title: Experience
 header:
     overlay_image: /assets/images/island.jpg
 ---
