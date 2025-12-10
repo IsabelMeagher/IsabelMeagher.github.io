@@ -7,7 +7,7 @@ header:
     actions:
         - label: "Contact Me"
           url: /contacts
-    overlay_filter: 
+    overlay_filter: rgba(233, 199, 255, 0.5)
 ---
 
 # About Me
