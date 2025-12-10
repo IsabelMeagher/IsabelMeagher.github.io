@@ -1,0 +1,13 @@
+---
+layout: home
+title: Personal Portfolio of Isabel Meagher
+excerpt: Find Your Dream Vacation Today
+header:
+    overlay_image: /assets/images/sunsetisland.jpg
+    actions:
+        - label: "Learn More"
+          url: /about
+    overlay_filter: rgba(152, 48, 255, 0.5)
+---
+
+# Everyone's Favorite Vacation Spot
