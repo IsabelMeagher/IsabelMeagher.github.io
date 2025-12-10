@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: Isabel Meagher
 excerpt: Hi, I'm Isabel!
 header:
