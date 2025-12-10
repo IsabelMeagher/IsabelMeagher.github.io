@@ -1,6 +1,6 @@
 ---
 layout: single
 title: Experience
-header:
-    overlay_image: /assets/images/island.jpg
 ---
+
+This is the experience page
