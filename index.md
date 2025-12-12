@@ -11,7 +11,7 @@ header:
 ---
 
 # About Me
-Hello, my name is Isabel Meagher!
+Hello, my name is Isabel Meagher! ![Image of me](/assets/images/me.jpeg)
 
 ## Background
 I am from Harrisville, NY, and recivied my education at Harrisville Central School.
