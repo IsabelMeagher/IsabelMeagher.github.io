@@ -3,7 +3,7 @@ layout: single
 title: Isabel Meagher
 excerpt: Hi, I'm Isabel!
 header:
-    overlay_image: /assets/images/me.jpeg
+    overlay_image: /assets/images/me.jpg
     actions:
         - label: "Contact Me"
           url: /contacts
