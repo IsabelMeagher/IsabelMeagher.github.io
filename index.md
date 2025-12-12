@@ -3,7 +3,7 @@ layout: single
 title: Isabel Meagher
 excerpt: Hi, I'm Isabel!
 header:
-    overlay_image: /assets/images/me.jpg
+    overlay_image: /assets/images/beautyandbeast.jpg
     actions:
         - label: "Contact Me"
           url: /contacts
@@ -11,7 +11,7 @@ header:
 ---
 
 # About Me
-Hello, my name is Isabel Meagher! ![Image of me](/assets/images/me.jpeg)
+Hello, my name is Isabel Meagher! 
 
 ## Background
 I am from Harrisville, NY, and recivied my education at Harrisville Central School.
@@ -29,3 +29,6 @@ Some things I like to do in my free time are hanging with friends, listening to 
 - Creativity: Along with studying creative writing, I have developed some very useful ways to think creatively.
 - Positivity: I always try to see the good side of things even in bad situations.
 - Calming: I would describe myself as very chill. I am always ready for anything but will be calam amd quiet until the time comes.
+
+
+[def]: /assets/images/me.jpeg
