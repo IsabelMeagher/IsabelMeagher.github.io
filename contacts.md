@@ -17,3 +17,4 @@ layout: single
 
 ## You can also find me here:
 Email: isabelmeagher1@gmail.com
+[My Github Profile](https://github.com/IsabelMeagher)
