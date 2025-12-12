@@ -15,5 +15,5 @@ layout: single
 
 
 
-## My contact info:
+## You can also find me here:
 Email: isabelmeagher1@gmail.com

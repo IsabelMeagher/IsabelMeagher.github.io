@@ -3,3 +3,5 @@ main:
     url: /contacts
   - title: "Experience"
     url: /experience
+  - title: "Projects"
+    url: /projects
