@@ -2,7 +2,7 @@
 layout: single
 title: Isabel Meagher
 header:
-    overlay_image: /assets/images/beautyandbeast.jpg
+    overlay_image: /assets/images/me.jpeg
     actions:
         - label: "Contact Me"
           url: /contacts
@@ -11,8 +11,6 @@ header:
 
 # About Me
 Hello, my name is Isabel Meagher! 
-<img src="me.jpeg" width="200" height="100">
-
 ![Picture of me](/assets/images/me.jpeg "Picture of me")
 
 ## Background
