@@ -28,6 +28,3 @@ Some things I like to do in my free time are hanging with friends, listening to 
 - Creativity: Along with studying creative writing, I have developed some very useful ways to think creatively.
 - Positivity: I always try to see the good side of things even in bad situations.
 - Calming: I would describe myself as very chill. I am always ready for anything but will be calam amd quiet until the time comes.
-
-
-[def]: /assets/images/me.jpeg
