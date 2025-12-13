@@ -8,20 +8,20 @@ header:
           url: /contacts
 ---
 
-# About Me
+## About Me
 Hello, my name is Isabel Meagher! 
 
-## Background
+### Background
 I am from Harrisville, NY, and recivied my education at Harrisville Central School.
 
 I have lived my whole life in Upstate New York. My favorie things about living in the upstate is some of the amazing scenery and the closeness within small towns.
 
-## Life Right Now
+### Life Right Now
 I am a student attending St. Lawrence University in Canton, New York. I am a sophmore majoring in english in creative writing.
 
 Some things I like to do in my free time are hanging with friends, listening to music, and making my own jewelry.
 
-## Skills/Characteristics
+### Skills/Characteristics
 - Teamwork: I am able to work well on my own as well as in large groups.
 - Emotional control: I work well and do not breakdown in stressful situations.
 - Creativity: Along with studying creative writing, I have developed some very useful ways to think creatively.
